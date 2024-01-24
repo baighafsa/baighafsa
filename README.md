@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hafsa Baig</h1>
-<h3 align="center">Bridging Insights and Code: Hafsa's Journey as a Data Analysis Enthusiast and Full Stack Developer</h3>
+<h3 align="center">Bridging Insights and Code: Hafsa's Journey as a Data Enthusiast</h3>
 <img align="right" alt="Code" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baighafsa&label=Profile%20views&color=0e75b6&style=flat" alt="baighafsa" /> </p>
 
 
 
-- 🌱 I’m currently learning **Springboot, Flutter, React**
+- 🌱 I’m currently learning **Machine Learning, Flask, React**
 
-- 💬 Ask me about **Data Analytics , HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **Data Analytics , HTML, CSS, JAVASCRIPT, SPRINGBOOT**
 
 - 📫 How to reach me **baighafsamirza@gmail.com**
 
