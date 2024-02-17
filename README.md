@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning, Flask, React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Analytics , HTML, CSS, JAVASCRIPT, SPRINGBOOT**
 
