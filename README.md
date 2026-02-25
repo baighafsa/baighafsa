@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Analytics , HTML, CSS, JAVASCRIPT, SPRINGBOOT**
 
-- ⚡ Fun fact **Just like how CDramas and KDramas have their unique charm, every line of code has its story – the journey from concept to execution is a tale waiting to be told.**
+- ⚡ Fun fact **Just like how CDramas and KDramas have their unique charm, every line of code has its story, the journey from concept to execution is a tale waiting to be told.**
 
 
 <h3 align="left">Languages and Tools:</h3>
