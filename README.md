@@ -6,10 +6,10 @@
 </p>
 
 - 🤖 Currently building with **LLMs, RAG pipelines, and multi-agent frameworks**
-- 🧠 Exploring **Agentic AI** — autonomous workflows, tool use, and agent orchestration
+- 🧠 Exploring **Agentic AI**, autonomous workflows, tool use, and agent orchestration
 - 📊 Background in **Data Analytics & Full-Stack Development**
 - 💬 Ask me about **AI/ML, Deep Learning, Retrieval-Augmented Generation, or LLM fine-tuning**
-- ⚡ Fun fact: Just like CDramas and KDramas, every model has its own story — from a raw dataset to a deployed intelligence
+- ⚡ Fun fact: Just like CDramas and KDramas, every model has its own story. from a raw dataset to a deployed intelligence
 
 ---
 
