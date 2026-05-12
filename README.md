@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafsa Baig</h1>
-<h3 align="center">Building intelligent systems - from data pipelines to agentic AI</h3>
+<h3 align="center">Data-AI-LLMs</h3>
 
 <img align="right" alt="AI Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
